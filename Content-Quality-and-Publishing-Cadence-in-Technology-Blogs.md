@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Corporate blogs increasingly rely on large-language-model (LLM) tooling, yet questions remain about factual accuracy, human-likeness, and the ability to sustain a regular publishing cadence. This study evaluates recent posts from a randomly selected set of technology companies (>= 100 posts in total) and compares them to outputs produced by an automated content pipeline configured with two levels (“Lite” and “Pro”). We operationalize three dimensions of content quality—**Human-Likeness**, **Factuality & Source Quality**, and **Publishing Cadence**—and report comparative descriptive statistics. In our sample, baseline corporate blogs cluster at Human-Likeness ~80–85/100 and Factuality & Source Quality ~60–70/100, with irregular and declining cadence over time (average inter-publication intervals of 30–60 days and long gaps (>150 days) for many blogs). The automated pipeline attains higher scores on both Human-Likeness and Factuality & Source Quality and maintains a steady cadence (targeting three posts per period). We discuss measurement choices, limitations, and implications for teams aiming to balance quality with consistency.
+Corporate blogs increasingly rely on large-language-model (LLM) tooling, yet questions remain about factual accuracy, human-likeness, and the ability to sustain a regular publishing cadence. This study evaluates recent posts from a randomly selected set of technology companies (>= 100 posts in total) and compares them to outputs produced by an [automated content pipeline](https://phrasr.ai) configured with two levels (“Lite” and “Pro”). We operationalize three dimensions of content quality—**Human-Likeness**, **Factuality & Source Quality**, and **Publishing Cadence**—and report comparative descriptive statistics. In our sample, baseline corporate blogs cluster at Human-Likeness ~80–85/100 and Factuality & Source Quality ~60–70/100, with irregular and declining cadence over time (average inter-publication intervals of 30–60 days and long gaps (>150 days) for many blogs). The automated pipeline attains higher scores on both Human-Likeness and Factuality & Source Quality and maintains a steady cadence (targeting three posts per period). We discuss measurement choices, limitations, and implications for teams aiming to balance quality with consistency.
 
 ---
 
@@ -57,7 +57,7 @@ We assembled a **random sample of technology companies** drawn from a neutral po
 We compare two conditions:
 
 - **Baseline Corporate Blogs (BCB):** Public posts as published by the sampled companies.
-- **Automated Pipeline (AP):** Outputs produced by an automated writing + verification workflow under two configurations: **AP-Starter** and **AP-Pro**. Both configurations incorporate programmatic fact-checking with source attribution and style controls aimed at natural, human-like phrasing. AP-Pro applies stricter source filters and deeper interpretive cross-checks.
+- **[Automated Pipeline (AP)](https://phrasr.ai):** Outputs produced by an automated writing + verification workflow under two configurations: **AP-Starter** and **AP-Pro**. Both configurations incorporate programmatic fact-checking with source attribution and style controls aimed at natural, human-like phrasing. AP-Pro applies stricter source filters and deeper interpretive cross-checks.
 
 ### 3.3 Measures
 
