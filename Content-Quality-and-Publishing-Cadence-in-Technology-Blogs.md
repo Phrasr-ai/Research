@@ -57,7 +57,7 @@ We assembled a **random sample of technology companies** drawn from a neutral po
 We compare two conditions:
 
 - **Baseline Corporate Blogs (BCB):** Public posts as published by the sampled companies.
-- **[Automated Pipeline (AP)](https://phrasr.ai):** Outputs produced by an automated writing + verification workflow under two configurations: **AP-Starter** and **AP-Pro**. Both configurations incorporate programmatic fact-checking with source attribution and style controls aimed at natural, human-like phrasing. AP-Pro applies stricter source filters and deeper interpretive cross-checks.
+- **Automated Pipeline (AP):** Outputs produced by an automated writing + verification workflow under two configurations: **AP-Starter** and **AP-Pro**. Both configurations incorporate programmatic fact-checking with source attribution and style controls aimed at natural, human-like phrasing. AP-Pro applies stricter source filters and deeper interpretive cross-checks.
 
 ### 3.3 Measures
 
