@@ -2,8 +2,6 @@
 
 ## A Comparative Study of Automated Pipelines vs. Human‑Driven Workflows
 
-*Research*
-
 **Authors:** Mehdi Laanaït, Oussama Elgoumri, Philippe Kaivers
 
 **Date:** September 2025
