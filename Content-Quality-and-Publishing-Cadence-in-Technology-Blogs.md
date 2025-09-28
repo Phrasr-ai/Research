@@ -1,5 +1,7 @@
 # Content Quality and Publishing Cadence in Technology Blogs
 
+## A Comparative Study of Automated Pipelines vs. Human‑Driven Workflows
+
 *Research*
 
 **Authors:** Mehdi Laanaït, Oussama Elgoumri, Philippe Kaivers
